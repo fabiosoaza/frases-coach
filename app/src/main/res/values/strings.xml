@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Frases de Coach</string>
+
+
+    <string name="button_generate_statement">Nova Frase</string>
+
+    <string name="text_label_statement">Frase motivacional do dia</string>
+    <string name="text_statement">Como gerente você é pago para estar desconfortável. Se você está confortável, é um sinal seguro de que você está fazendo as coisas erradas.</string>
+
+    <string-array name="statements">
+        <item>Quanto mais eu treino, mais sorte eu tenho.</item>
+        <item>Controle o seu destino ou alguém controlará.</item>
+        <item>Vocês que pensam que sabem tudo, se incomodam conosco que sabemos!</item>
+        <item>Como gerente você é pago para estar desconfortável. Se você está confortável, é um sinal seguro de que você está fazendo as coisas erradas.</item>
+        <item>Trocava toda a minha tecnologia por uma tarde com Sócrates.</item>
+        <item>Se tu o desejas, podes voar, só tens de confiar muito em ti.</item>
+        <item>Passo a passo. Não consigo pensar em nenhum outro modo de se realizar algo.</item>
+        <item>Não deixe pra desistir amanhã o que você pode desistir hoje</item>
+        <item>Não inveje, trabalhe!</item>
+        <item>Nada é tão ruim que não possa piorar</item>
+        <item>A inteligência artificial não é páreo para a estupidez natural!</item>
+        <item>Finalmente ela olhou pra você. E te achou feio.</item>
+        <item>Sexta feira! O melhor dia para invejar pessoas felizes...</item>
+        <item> NÃO DESANIME COM UMA DERROTA". AMANHÃ TEM MAIS!!!</item>
+    </string-array>
+
+
+
+
+
+
+</resources>
