@@ -11,8 +11,8 @@
         style="@style/styleStatement"
         android:layout_width="348dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
-        android:text="@string/text_statement"
+        android:layout_marginTop="16dp"
+        android:importantForAccessibility="yes"
         app:layout_constraintEnd_toEndOf="@+id/textlabelStatement"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -22,10 +22,11 @@
 
     <TextView
         android:id="@+id/textlabelStatement"
-        style="@android:style/Widget.Material.TextView"
+        style="@style/styleTitle"
         android:layout_width="348dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
+        android:contentDescription="@string/text_label_statement_content_description"
         android:text="@string/text_label_statement"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.534"
@@ -33,10 +34,11 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/butoonGenerateStatement"
+        android:id="@+id/btnGerarFrase"
         android:layout_width="348dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="16dp"
+        android:contentDescription="@string/button_generate_statement_content_description"
         android:text="@string/button_generate_statement"
         app:layout_constraintEnd_toEndOf="@+id/textStatement"
         app:layout_constraintHorizontal_bias="0.492"

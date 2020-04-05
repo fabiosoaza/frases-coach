@@ -10,7 +10,11 @@
 
     <style name="styleStatement" parent="@android:style/Widget.TextView">
         <item name="android:textSize">@dimen/text_view_size_bigger</item>
+    </style>
 
+    <style name="styleTitle" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_view_size_title</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
 </resources>

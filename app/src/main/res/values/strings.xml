@@ -3,8 +3,12 @@
 
 
     <string name="button_generate_statement">Nova Frase</string>
+    <string name="button_generate_statement_content_description">Gerar nova frase</string>
 
-    <string name="text_label_statement">Frase motivacional do dia</string>
+
+    <string name="text_label_statement">Frase motivacional do dia :</string>
+    <string name="text_label_statement_content_description">@string/text_label_statement</string>
+
     <string name="text_statement">Como gerente você é pago para estar desconfortável. Se você está confortável, é um sinal seguro de que você está fazendo as coisas erradas.</string>
 
     <string-array name="statements">
